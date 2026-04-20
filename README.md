@@ -24,5 +24,4 @@ Atualmente estou no **último semestre de Análise e Desenvolvimento de Sistemas
 ---
 
 ### 📫 Contato
-* **Contato:** (91)98374-2466
 * **Email:** jorge.sodrecarneiro6@gmail.com
