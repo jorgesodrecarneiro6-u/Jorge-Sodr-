@@ -4,7 +4,6 @@ Atualmente estou no **último semestre de Análise e Desenvolvimento de Sistemas
 
 ### 🚀 Sobre mim
 * 🎓 **Formando em ADS:** Desenvolvendo uma base sólida em lógica, arquitetura e engenharia de software.
-* 🛠️ **Projeto Atual:** Criando um **Sistema de auxílio Jurídico com IA** em Kotlin e automatizando o fluxo de dados entre e-mails e bancos de dados .
 * 🔍 **Foco Técnico:** Especialização no ecossistema **Kotlin/Java** + **Spring Boot** e persistência de dados (JPA/Hibernate).
 
 ### 💻 Tecnologias
